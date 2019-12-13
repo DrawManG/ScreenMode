@@ -1,0 +1,17 @@
+C:\Users\Пользователь\source\repos\ORR\obj\Debug\ORR.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ORR\obj\Debug\ORR.Form1.resources
+C:\Users\Пользователь\source\repos\ORR\obj\Debug\ORR.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\ORR\obj\Debug\ORR.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\ORR\obj\Debug\ORR.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ORR\bin\Debug\ORR.exe.config
+C:\Users\Пользователь\source\repos\ORR\bin\Debug\ORR.exe
+C:\Users\Пользователь\source\repos\ORR\bin\Debug\ORR.pdb
+C:\Users\Пользователь\source\repos\ORR\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Пользователь\source\repos\ORR\bin\Debug\NPOI.dll
+C:\Users\Пользователь\source\repos\ORR\bin\Debug\NPOI.OOXML.dll
+C:\Users\Пользователь\source\repos\ORR\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Пользователь\source\repos\ORR\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Пользователь\source\repos\ORR\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Пользователь\source\repos\ORR\obj\Debug\ORR.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\ORR\obj\Debug\ORR.exe
+C:\Users\Пользователь\source\repos\ORR\obj\Debug\ORR.pdb
